@@ -1,0 +1,65 @@
+.heart{
+  display: flex;
+  flex-wrap: wrap;
+  margin: 1.5%;
+  justify-content: space-around;
+
+}
+
+.heart div{
+  margin-top: 2%;
+}
+
+.middle{
+  display: flex;
+
+}
+
+.foot{
+  width:stretch;
+  background-color: #000000;
+ 
+  background-image: linear-gradient(147deg,  #ff0084,#0063dc);
+  color:#ffffff;
+  text-align:center;
+  padding: 15px;
+  position: fixed;
+  bottom: 0px;
+}
+
+.btn{
+  color: rgb(0, 0, 0)!important;
+  background-color: #ffffff!important;
+}
+
+.bar{
+  background-image: linear-gradient(147deg, #0063dc, #ff0084);
+}
+
+
+.pic{
+  padding: 50%;
+}
+
+.slate:hover{
+
+  box-shadow: 0 1rem 1rem 0 rgba(0, 0, 0, 0.3);
+}
+.slate{
+
+  box-shadow: 9px 9px 5px -6px rgba(0,0,0,0.72);
+  -webkit-box-shadow: 9px 9px 5px -6px rgba(0,0,0,0.72);
+  -moz-box-shadow: 9px 9px 5px -6px rgba(0,0,0,0.72);
+}
+
+a{
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.download{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 70px;
+}
