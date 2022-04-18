@@ -4,6 +4,9 @@
 ## Project is done using React JS 
   Refer to package.json file to see dependencies.
   
+##`Deployed Project URL`
+https://dashing-duckanoo-c13ced.netlify.app/
+  
 ## Mentioned below are the sources 
 ### `Flicker API`
 https://www.flickr.com/services/developer/api/
